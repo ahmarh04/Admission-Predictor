@@ -40,7 +40,7 @@ pip install pandas numpy scikit-learn matplotlib seaborn jupyter
 Installation
 Clone this repository:
 ```bash
-git clone https://github.com/your-username/admission-predictor.git
+git clone https://github.com/ahmarh04/admission-predictor.git
 ```
 Navigate to the project folder:
 ```bash
